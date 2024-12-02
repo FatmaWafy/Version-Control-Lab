@@ -10,8 +10,16 @@ git stash
 git checkout branch name
 (git stash pop) To apply the stashed changes
 
+**#How to list tags?**
+git tag
 
+**#How to delete a tag locally and remotely?**
+Locally:
+git tag -d tag name
+Remotely: 
+git push origin --delete tag name
 
+ 
 
 
 
