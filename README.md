@@ -1,4 +1,4 @@
-![463979434_27538827442430940_5765978669939308554_n](https://github.com/user-attachments/assets/4a437797-b28e-409b-a75a-4a499acbb5f7)**#How to remove a branch locally and remotely?**
+locally and remotely?**
 Locally:
 git branch -d branch_name  # if the branch is already merged
 git branch -D branch_name  # if the branch is not fully merged yet
